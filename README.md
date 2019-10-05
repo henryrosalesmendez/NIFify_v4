@@ -1,6 +1,6 @@
  
 
-# NIFify version 3
+# NIFify version 4
 
 
 Textual entities have been of great interest to researchers in Computer Science. Several large-scale projects are a valuable source of real-world entities suach as [Wikipedia](https://www.wikipedia.org/), [DBpedia](http://wiki.dbpedia.org/), [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) and [BabelNet](http://babelnet.org/); and the association of entities to these knowledge bases constitutes a process of de-empathy, which has gained the attention of the community. There are several formats to these documents and annotations, but all of them, the [NIF](http://persistence.uni-leipzig.org/nlp2rdf/) format is mostly adopted.
